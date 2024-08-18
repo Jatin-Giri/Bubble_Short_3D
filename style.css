@@ -16,7 +16,7 @@ html {
   }
   .scene{
     position: absolute;
-    top: 80%;
+    top: 75%;
     padding: 70px 20px;
     transform-style: preserve-3d;
   }
